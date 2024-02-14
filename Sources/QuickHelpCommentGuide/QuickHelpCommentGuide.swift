@@ -47,7 +47,7 @@ public class QuickHelpCommentGuide{
      순서로 가장 앞에 배치하여, 퀵헬프 시 한눈에 들어오도록 한다.
      익숙해질 때까지 이 QickHelpCommentGuide class 를 Helper 그룹에 넣어서 관리하도록 하자.
      */
-    static  func tip(){}
+    public static  func tip(){}
     // MARK: template
     /**
      <#Summary#>
@@ -85,5 +85,5 @@ public class QuickHelpCommentGuide{
      >```
      
      */
-    static func templete(){}
+    public static func templete(){}
 }
