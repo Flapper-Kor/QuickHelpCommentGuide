@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 
 // MARK: - QuikHelpCommentGuide
-class QuickHelpCommentGuide{
+public class QuickHelpCommentGuide{
     //MARK: 작성을 위한 Tip
     /**
      > Tip:
